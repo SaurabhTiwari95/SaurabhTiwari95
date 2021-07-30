@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SaurabhTiwari95
-- 👀 I’m interested in  Front End Development and currently working on Angular 7 based ERP Project with PHP and MySQL in the backend.
-- 🌱 I’m currently learning JavaScript and other Web Technologies
+- 👋 Hi, I’m @SaurabhTiwari
+- 👀 I’m interested in  Front End Development and currently working on a cloud based ERP system.
+- 🌱 I’m currently learning JavaScript, Angular and other Web Technologies
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on saurabhcs0031@gmail.com ...
+- 📫 You can reach me on saurabhtiwari1707@gmail.com ...
 
 <!---
 SaurabhTiwari95/SaurabhTiwari95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
