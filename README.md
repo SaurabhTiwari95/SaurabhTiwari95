@@ -4,7 +4,7 @@
 
 I design systems that let AI agents work safely on real business data: secure APIs in front of
 existing systems, human approval where it matters, and hard limits on cost. I've spent 8+ years
-building and running enterprise platforms on AWS, and I lead a team of 16 engineers.
+building and running enterprise platforms on AWS, and I lead an engineering team.
 
 ### What I work on
 
