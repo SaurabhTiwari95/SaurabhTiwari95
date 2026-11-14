@@ -20,20 +20,15 @@ building and running enterprise platforms on AWS, and I lead an engineering team
 
 | Project | What it shows |
 |---|---|
-| [aws-learning](https://github.com/SaurabhTiwari95/aws-learning) | My study log for AWS Certified Solutions Architect – Associate |
-| [fde-learning](https://github.com/SaurabhTiwari95/fde-learning) | Python, APIs, LLM agents, RAG and evals, hands-on |
-
-<!--
-Rows to move INTO the table above (above aws-learning) as each repo goes live.
-
 | [secure-read-gateway](https://github.com/SaurabhTiwari95/secure-read-gateway) | A zero-trust read API for AI agents: signed requests, nonces, allow-lists |
 | [governed-write-api](https://github.com/SaurabhTiwari95/governed-write-api) | Safe writes for agents: validate-then-commit, idempotency, caps, circuit breaker, audit log |
-| [agent-console](https://github.com/SaurabhTiwari95/agent-console) | Web console for an AI agent: Google sign-in, knowledge pages, health and cost dashboard, auto-deploy |
 | [agent-approval-flow](https://github.com/SaurabhTiwari95/agent-approval-flow) | Human-in-the-loop: an AI agent drafts, a person approves, it posts under their name |
 | [cost-capped-agent](https://github.com/SaurabhTiwari95/cost-capped-agent) | A Claude agent with a knowledge index, model choice per task and daily cost caps |
+| [agent-console](https://github.com/SaurabhTiwari95/agent-console) | Web console for an AI agent: Google sign-in, knowledge pages, health and cost dashboard, auto-deploy |
 | [s3-direct-upload](https://github.com/SaurabhTiwari95/s3-direct-upload) | Browser-to-S3 uploads with pre-signed URLs and least-privilege IAM |
 | [architecture-notes](https://github.com/SaurabhTiwari95/architecture-notes) | Design write-ups and diagrams: AI on legacy systems, fault isolation, cost cases |
--->
+| [aws-learning](https://github.com/SaurabhTiwari95/aws-learning) | My study log for AWS Certified Solutions Architect – Associate |
+| [fde-learning](https://github.com/SaurabhTiwari95/fde-learning) | Python, APIs, LLM agents, RAG and evals, hands-on |
 
 *All projects here are my own independent work, built on sample data.*
 
